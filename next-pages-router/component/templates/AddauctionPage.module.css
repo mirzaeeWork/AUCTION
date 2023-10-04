@@ -1,0 +1,43 @@
+.formInputLlist {
+  border: 1.5px solid #941c70;
+  padding: 10px;
+  margin: 30px 250px 0 250px;
+  border-radius: 10px;
+}
+
+.formInputLlist-mid {
+  display: flex;
+  justify-content: space-between;
+}
+
+.formInputLlist input {
+  width: 100%;
+  margin-top: 2px;
+  margin-bottom: 5px;
+  height: 1.5rem;
+}
+
+.auction_page__buttons {
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 30px;
+}
+
+.auction_page__buttons .first
+ {
+  border: 1px solid #91030a;
+  background-color: #e4c2da;
+  padding: 5px 50px;
+  color: #91030a;
+  border-radius: 5px;
+}
+
+.auction_page__buttons .second  {
+  border: 1px solid #039143;
+  background-color: #d0e9dd;
+  padding: 5px 50px;
+  color: #039143;
+  border-radius: 5px;
+}
+

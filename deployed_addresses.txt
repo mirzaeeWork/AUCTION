@@ -1,0 +1,2 @@
+TestNet=mumbai
+Contract_Address_Auction=0x1A5642C049c74493676BD6B9aE73eec79B014a9C
